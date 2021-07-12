@@ -11,6 +11,7 @@
                     <VBox>
                         <Text text="Sachin" class="animate__animated animate__wobble"/>
                         <Text text="Arnab"/>
+                        <Text text="Aryan"/>
                     </VBox>
                     
 				</Page>
